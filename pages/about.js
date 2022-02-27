@@ -1,12 +1,12 @@
 import React from "react";
 import NavBar from "../components/NavBar";
 
-function index(props) {
+function about_us(props) {
   return (
     <>
-      <div> HOME </div>
+      <div>about_us</div>
     </>
   );
 }
 
-export default index;
+export default about_us;
